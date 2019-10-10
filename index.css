@@ -1,0 +1,451 @@
+
+    
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    
+    height: 200px;
+    background-color: #2b333b;
+
+
+    
+}
+    
+.container2 {
+    background-color: #2b333b;
+    height: 700px;
+    line-height: 700px;
+    display: flex;
+    justify-content: center;
+    
+}
+.box3 {
+    border: 1px solid white;
+    color: white;
+    height: 35px;
+    width: 70px;
+    margin-right: 7px;
+    margin-top: 5px;
+    text-align: center;
+    line-height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    
+}
+#profile {
+    margin-top: 50px;
+}
+.container3 {
+    display: flex;
+    justify-content: center; 
+}
+
+#pic2 {
+    width: 85px; 
+    justify-content: center;
+
+    height: 35px;
+}
+.container4 {
+    display: flex;
+    justify-content: space-between;
+    height: 700px;
+    margin-top: 50px;
+    
+    
+    
+    
+
+}
+#pic3 {
+    height: 270px;
+   
+    justify-content: center;
+    margin-top: 120px; 
+    margin-right: 250px;
+
+}
+
+
+
+.right {
+    margin-right: 60px;
+    
+    
+}
+
+.left {
+    height: 400px;
+    width: 400px; 
+    text-align: left;
+    padding: 55px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 150px;
+    color: grey;
+    
+}
+.t1 {
+    color: #2b333b;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+    
+
+#pic4 {
+    height: 65px;
+    width: 90px;
+    margin-left: 100px;
+    background-color: white;
+    display: inline-block;
+
+}
+#pic4 img:hover {
+    opacity: .50;
+
+}
+
+
+
+.container5 {
+    background:	#F8F8F8;
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    
+}
+#pic6 {
+    width: 20px;
+}
+.container6 {
+    background: #F8F8F8;
+    height: 790px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+
+
+}
+
+.leftside {
+    width: 385px;
+    margin-right: 275px;
+    color: gray
+}
+.rightside {
+    
+    
+}
+
+.t2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2b333b;
+    
+    
+}
+#pic6 {
+    justify-content: center;
+    height: 250px;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: 45px;
+}
+.container7 {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+#pic7 {
+    width: 80px;
+    height: 35px;
+   
+}
+.container7 {
+    background-color:#2b333b;
+}
+.container8 {
+    background: #2b333b;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    
+}
+.centered {
+    border: 1px solid white;
+    justify-content: center;
+    align-self: center;
+    height: 320px;
+    width: 700px;
+    text-align: center;
+    margin-bottom: 80px;
+    
+    
+}
+.portfolio {
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+     
+}
+.bottomp {
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.dribbble {
+    border: 1px solid white; 
+    text-align: center;
+    height: 40px;
+    width: 300px;
+    margin-left: 195px;
+    margin-top: 20px;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+.container9 {
+
+    background: teal;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    
+}
+#pic8 {
+    width: 85px;
+
+    
+}
+.container10 {
+    height: 50px;
+    background: teal;
+    
+}
+
+
+a:visited {
+    color: white;
+    
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+
+}
+
+.container10 {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+    
+    height:500px;
+    
+    
+    margin-left: 200px;
+    margin-top: 100px;
+   
+}
+.flex1{
+    display: flex;
+    justify-content: space-evenly;
+    
+    margin-left: 105px;
+}
+.pics {
+    
+    width: 120px;
+    height: 10rem;  
+    color: #D0D0D0
+    
+}
+
+.pics2 {
+    
+    width: 120px;
+    color: #D0D0D0;
+}
+
+.namethisbetter{
+    display: flex;
+    
+    background: teal;
+}
+.recenttweet {
+    
+    margin-top: 100px;
+    margin-left: 200px;
+    height: 500px;
+    width: 500px;
+    color: #E8E8E8;
+    
+
+    
+    
+}
+.tile {
+    text-align: center;
+    font-family: 'Hind Siliguri', sans-serif;
+    color: white;
+    width: 300px;
+    margin-left: 90px;
+    
+    
+    
+}
+.recent {
+text-align: center; 
+font-family: 'Hind Siliguri', sans-serif;
+color: 	white;
+}
+
+.container13 {
+    display: flex;
+    justify-content: center;
+    background: #2b333b;
+    height: 100px;
+    
+}
+
+#finalpic {
+    align-self: center;
+    justify-content: center;
+    height: 50px;
+    margin-bottom: 10px;
+    align-content: center;
+    background: #2b333b;
+    
+}
+.container12 {
+    text-align: center;
+    background: #2b333b;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+
+}
+
+.namethiswrong {
+    background: #2b333b;
+}
+
+i {
+    color: white;
+}
+.rob {
+    color: white;
+}
+
+  
+  .container14 {
+      text-align: center;
+      margin-top: 40px;
+      
+      font-family: 'Hind Siliguri', sans-serif;
+      color: white;
+  }
+  .fullcontainer {
+      background: #2b333b;
+      color: #D0D0D0;
+  }
+  .container15 {
+      height: 650px;
+     
+      background: #2b333b;
+      
+      
+  }
+
+      
+      
+ 
+
+  .container16{
+      height: 75px;
+      
+      margin-left: 375px;
+      
+      
+  }
+  
+  .text {
+      height: 10px;
+  }
+  .firstform {
+      width: 750px;
+      height: 50px;
+      margin-top: 20px;
+      
+      border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid white;
+    background: #2b333b;
+  }
+
+  ::placeholder {
+      color: white;
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+  }
+
+  .secondform {
+      width: 350px;
+      height:50px;
+      border: 0;
+      outline: 0;
+      background: transparent;
+      border-bottom: 1px solid white;
+      background: #2b333b;
+      margin-top: 20px;
+  }
+
+  .thirdform {
+    width: 400px;
+    height:50px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid white;
+    background: #2b333b;
+
+  }
+  .container17 {
+      background: #2b333b;
+      margin-left: 375px;
+  }
+  .finalcontainer {
+      background: #2b333b;
+  }
+  .container18 {
+      margin-top: 60px;
+      margin-left: 370px;
+      
+  }
+  #your-message {
+      background: #2b333b;
+      border: 1px solid white;
+
+  }
+  .container19 {
+      margin-top: 200px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 10px;
+      width: 300px;
+      margin-left: 375px;
+      
+  }
+ .copyright {
+     color: #D0D0D0;
+ }
+ .doi {
+     color: white;
+ }
